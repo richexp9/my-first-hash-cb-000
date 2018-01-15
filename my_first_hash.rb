@@ -8,7 +8,6 @@ end
 def shipping_manifest
   the_manifest = {}
   # set a variable called `the_manifest`, equal to a hash
-  the_manifest["whale bone corsets"] = 5
   # fill that hash with key/value pairs that describe the following information:
   the_manifest["whale bone corsets"] = 5
   the_manifest["porcelain vases"] = 2
